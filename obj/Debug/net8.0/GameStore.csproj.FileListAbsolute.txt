@@ -1,0 +1,14 @@
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/bin/Debug/net8.0/GameStore
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/bin/Debug/net8.0/GameStore.deps.json
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/bin/Debug/net8.0/GameStore.runtimeconfig.json
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/bin/Debug/net8.0/GameStore.dll
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/bin/Debug/net8.0/GameStore.pdb
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/GameStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/GameStore.AssemblyInfoInputs.cache
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/GameStore.AssemblyInfo.cs
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/GameStore.csproj.CoreCompileInputs.cache
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/GameStore.dll
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/refint/GameStore.dll
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/GameStore.pdb
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/GameStore.genruntimeconfig.cache
+/Users/miraycapan/Desktop/days/day5/Day5Project/GameStore/obj/Debug/net8.0/ref/GameStore.dll
